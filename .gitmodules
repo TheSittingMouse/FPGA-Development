@@ -1,0 +1,6 @@
+[submodule "synchronous_fifo"]
+	path = synchronous_fifo
+	url = https://github.com/TheSittingMouse/Synchronous-FIFO.git
+[submodule "basys3_7_segment_controller"]
+	path = basys3_7_segment_controller
+	url = https://github.com/TheSittingMouse/Basys3-7-Segment-Display-Controller.git
