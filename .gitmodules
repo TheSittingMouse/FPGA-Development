@@ -4,3 +4,6 @@
 [submodule "basys3_7_segment_controller"]
 	path = basys3_7_segment_controller
 	url = https://github.com/TheSittingMouse/Basys3-7-Segment-Display-Controller.git
+[submodule "uart_8N1"]
+	path = uart_8N1
+	url = https://github.com/TheSittingMouse/UART-8N1.git
