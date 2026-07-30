@@ -7,3 +7,6 @@
 [submodule "uart_8N1"]
 	path = uart_8N1
 	url = https://github.com/TheSittingMouse/UART-8N1.git
+[submodule "spi_master"]
+	path = spi_master
+	url = https://github.com/TheSittingMouse/SPI-Master.git
