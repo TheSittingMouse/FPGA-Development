@@ -10,3 +10,6 @@
 [submodule "spi_master"]
 	path = spi_master
 	url = https://github.com/TheSittingMouse/SPI-Master.git
+[submodule "spi_controller"]
+	path = spi_controller
+	url = https://github.com/TheSittingMouse/SPI-Master-Controller-Unit.git
