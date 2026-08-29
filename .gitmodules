@@ -13,3 +13,6 @@
 [submodule "spi_controller"]
 	path = spi_controller
 	url = https://github.com/TheSittingMouse/SPI-Master-Controller-Unit.git
+[submodule "uart_spi_bridge"]
+	path = uart_spi_bridge
+	url = https://github.com/TheSittingMouse/FPGA-UART-SPI-Bridge.git
